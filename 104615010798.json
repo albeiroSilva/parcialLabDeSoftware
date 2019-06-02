@@ -1,0 +1,156 @@
+[
+    {
+        "nombre": "Calculo I",
+        "codigoMateria": "11465",
+        "num-semestre" : 1,
+        "creditos": 4,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Introducción a la Informática",
+        "codigoMateria": "11477",
+        "num-semestre" : 1,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Introducción a la Ingeniería de Sistemas",
+        "codigoMateria": "11479",
+        "num-semestre" : 1,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Introducción a la Informática",
+        "codigoMateria": "11478",
+        "num-semestre" : 1,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Lectura y Escritura",
+        "codigoMateria": "10224",
+        "num-semestre" : 1,
+        "creditos": 2,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Cálculo II",
+        "codigoMateria": "311-1",
+        "num-semestre" : 2,
+        "creditos": 4,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Mecánica",
+        "codigoMateria": "318-1",
+        "num-semestre" : 2,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Programación Orientada a Objetos",
+        "codigoMateria": "SIS201-L",
+        "num-semestre" : 2,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Mecánica",
+        "codigoMateria": "312-1",
+        "num-semestre" : 2,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Programación Orientada a Objetos",
+        "codigoMateria": "SIS201",
+        "num-semestre" : 2,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Álgebra Lineal",
+        "codigoMateria": "307",
+        "num-semestre" : 2,
+        "creditos": 4,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Cálculo III",
+        "codigoMateria": "316-1",
+        "num-semestre" : 3,
+        "creditos": 4,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Electromagnetismo",
+        "codigoMateria": "317-1",
+        "num-semestre" : 3,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Estructuras de Datos I",
+        "codigoMateria": "SIS301",
+        "num-semestre" :3,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Electromagnetismo",
+        "codigoMateria": "329-1",
+        "num-semestre" : 3,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Estructuras de Datos I",
+        "codigoMateria": "10153",
+        "num-semestre" : 3,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Bases de Datos I",
+        "codigoMateria": "SIS402",
+        "num-semestre" : 4,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Ecuaciones Diferenciales Ordinarias",
+        "codigoMateria": "322-1",
+        "num-semestre" : 4,
+        "creditos": 4,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Estructura de Datos II",
+        "codigoMateria": "SIS401",
+        "num-semestre" : 4,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Bases de Datos I",
+        "codigoMateria": "SIS402L",
+        "num-semestre" : 4,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Laboratorio de Estructuras de Datos II",
+        "codigoMateria": "SIS401L",
+        "num-semestre" : 4,
+        "creditos": 1,
+        "estado": "SIN TERMINAR"
+    },
+    {
+        "nombre": "Vibraciones y Ondas",
+        "codigoMateria": "323-1",
+        "num-semestre" : 4,
+        "creditos": 3,
+        "estado": "SIN TERMINAR"
+    }
+]
